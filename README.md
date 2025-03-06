@@ -1,4 +1,4 @@
-# Enhanced Risk Stratification for Stage II Colorectal Cancer Using Deep Learning-based CT Classifier and Pathological Markers to Optimize Adjuvant Therapy Decision
+# Intelligent Risk Integration System for Stage II Colorectal Cancer: IRIS-CRC
 
 IRIS-CRC is a free, open-source risk stratification system designed to optimize adjuvant therapy decision-making for stage II colorectal cancer patients by integrating CT imaging features with established pathological markers.
 Developed at Guangdong Provincial People's Hospital by a research team led by Zaiyi Liu, who envisioned a tool that would enhance clinical decision-making by providing more precise risk stratification than conventional methods. Current IRIS-CRC development is led by Yanqi Huang, Xiaobo Chen and colleagues across multiple medical centers in China.
