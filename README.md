@@ -13,7 +13,7 @@ IRIS-CRC provides AI-driven risk assessment using deep learning algorithms, as w
 
 ## our software
 
-Our software and Sample data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1WR5yLBJ0EJ0dULkAi3ZD0ytdx185JjbG?usp=drive_link).
+Our software and Sample data can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1mzj26623BXK7yaJJaDpwKhpSAxs-XI6l?usp=drive_link).
 
 ![figure_1.jpg](https://github.com/Chenxiaobo0828/IRIS-CRC/blob/main/figure_1.jpg)
 
